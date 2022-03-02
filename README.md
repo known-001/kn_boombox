@@ -39,7 +39,7 @@ git clone https://github.com/known-001/kn_boombox/
 
 #### Manualy
 
-- Download <ttps://github.com/known-001/kn_boombox/>
+- Download <https://github.com/known-001/kn_boombox/>
 - Put it in the resources repository
 
 ### Instalation
