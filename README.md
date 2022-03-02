@@ -16,7 +16,7 @@ game Also being server synced making sure every person can hear within the area 
 
 #### Preview
 
-WIP
+https://streamable.com/qx9fu4
 
 #### Requirements
 
