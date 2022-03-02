@@ -1,4 +1,4 @@
-# KN Speaker
+# KN Boombox
 
 ## Description
 
